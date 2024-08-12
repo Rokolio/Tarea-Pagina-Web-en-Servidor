@@ -1,0 +1,17 @@
+.carousel-inner{
+    height: 300px !important;
+}
+
+.carousel-inner .carouse-item{
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.card {
+    width: 300px; /* Ajusta el ancho deseado */
+    height: 250px; /* Ajusta la altura deseada */
+  }
+  
+  .card-body {
+    font-size: 18px; /* Ajusta el tamaño de fuente */
+  }
